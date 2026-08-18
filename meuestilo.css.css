@@ -1,0 +1,14 @@
+body {
+	background-color: powderblue;
+}
+h1, h2 {
+	color:white;
+	background-color: pink;	
+}
+img {
+	width:300px;
+	heigth:300px;
+}
+nav {
+	background-color: pink;
+}
